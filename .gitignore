@@ -3,3 +3,5 @@
 
 CodeCast_backend.iml
 .env
+modules/anon_sessions/schema.md
+db/db.md
